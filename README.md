@@ -4,7 +4,6 @@ https://aleexolsson.github.io/digital-signage/
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aleexolsson/digital-signage)
 ![GitHub repo size](https://img.shields.io/github/repo-size/aleexolsson/digital-signage)
-![GitHub release](https://img.shields.io/github/v/release/aleexolsson/digital-signage)
 ![GitHub contributors](https://img.shields.io/github/contributors/aleexolsson/digital-signage)
 
 ## Raspberry Pi installation
