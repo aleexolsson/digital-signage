@@ -1,6 +1,6 @@
 # Digital Signage
 ## Digital signage software/webpage 
-https://aleexolsson.github.io/digital-signage/
+https://exhale9160.github.io/digital-signage/
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aleexolsson/digital-signage)
 ![GitHub repo size](https://img.shields.io/github/repo-size/aleexolsson/digital-signage)
